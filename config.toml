@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Code Player, Xianming Dou"
+theme = "mainroad"
