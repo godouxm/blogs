@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Code Player, Xianming Dou"
+title = "Xianming Dou's blog"
 theme = "mainroad"
 paginate = "8" # Number of posts per page
 disqusShortname = "" # Enable comments by entering your Disqus shortname
