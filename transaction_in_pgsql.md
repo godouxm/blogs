@@ -1,13 +1,14 @@
 ---
-date: 2018-08-13
-title: "PostgreSQL的事务实现机制"
+title: "Transaction implenmentation in PostgreSQL"
+date: 2018-08-14T12:40:55+08:00
 tags:
-    - Database
-    - PostgreSQL
-    - github
-categories:
-    - github
-comment: true
+  - PostgreSQL 
+  - Database 
+  - Transaction
 ---
 
-First post.
+Will describe the transaction implementation in PostgreSQL.
+
+To be continue...
+
+

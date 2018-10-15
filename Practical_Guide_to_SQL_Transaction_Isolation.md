@@ -5,6 +5,7 @@ tags:
   - PostgreSQL 
   - Database 
   - Transaction
+  - Translation
 ---
 
 Will be the Chinese transaction of <Practical Guide to SQL Transaction Isolation>[https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html]
