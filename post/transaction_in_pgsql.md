@@ -1,14 +1,6 @@
 ---
-date: 2018-08-13
-title: "PostgreSQL的事务实现机制"
-tags:
-    - Database
-    - PostgreSQL
-    - github
-categories:
-    - github
+title: "Transaction_in_pgsql"
+date: 2018-10-15T20:04:58+08:00
 draft: true
-comment: true
 ---
 
-First post.

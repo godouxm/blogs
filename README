@@ -1,0 +1,5 @@
+1. Add artical into post/new_artical.md
+2. hugo new post/new_artical.md
+3. hugo
+4. cd public && git add && git commit -m "new" && git push origin master
+5. cd .. && git add && git commit -m "new" && git push origin master
