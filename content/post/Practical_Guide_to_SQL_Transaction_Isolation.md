@@ -1,7 +1,7 @@
 ---
 title: "翻译：Practical Guide to SQL Transaction Isolation"
 date: 2018-10-15T20:28:45+08:00
-draft: true
+draft: false
 tags: ["Transaction", "Translation", "PostgreSQL"]
 categories: ["Database"]
 
