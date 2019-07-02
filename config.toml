@@ -1,3 +1,45 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.voidpal.com/"
+title = "数据库技术日常"
+author = "窦贤明（Xianming Dou）"
+theme = "inkblotty"
+paginate = 10
+
 languageCode = "en-us"
-title = "My New Hugo Site"
+DefaultContentLanguage = "en-us"
+hasCJKLanguage = "true"
+
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+summaryLength=150
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[Params]
+  readmore = true
+
+[outputs]                          # c.f. https://gohugo.io/templates/output-formats/
+  home = ["HTML", "RSS"]
+  page =  ["HTML"]
+  section =  ["HTML", "RSS"]
+  taxonomyTerm =  ["HTML", "RSS"]
+  taxonomy =  ["HTML", "RSS"]
+
+[sitemap]
+  filename = "sitemap.xml"  # c.f. https://gohugo.io/templates/sitemap-template/#configure-sitemap-xml
