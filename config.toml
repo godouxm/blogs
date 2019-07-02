@@ -1,15 +1,15 @@
 baseurl = "/"
 languageCode = "zh-cn"
-title = "翡翠城热心业主"
-theme = "hugo-nuo"
+title = "贤明技术日常"
+theme = "hugo-theme-cleanwhite"
 paginate = "8" # Number of posts per page
-disqusShortname = "您怎么看？" # Enable comments by entering your Disqus shortname
+disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "翡翠城热心业主"
+  name = "贤明技术日常"
   bio = "none"
-  avatar = "img/avatar.png"
+  avatar = ""
 
 [Params]
   subtitle = "" # Subtitle of your site. Used in site header
